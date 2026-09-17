@@ -1,0 +1,7 @@
+показатель,n,Pearson r,p (Pearson),Spearman rho,p (Spearman)
+aic_per_capita_pps,270,0.6,0.0,0.655,0.0
+gdp_per_capita_pps,270,0.459,0.0,0.639,0.0
+fuel_price,270,0.609,0.0,0.638,0.0
+median_disposable_income,270,0.496,0.0,0.538,0.0
+electricity_price,270,0.391,0.0,0.434,0.0
+environmental_expenditure,270,0.038,0.539,-0.01,0.875
