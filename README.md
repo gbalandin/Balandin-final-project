@@ -271,11 +271,9 @@ ev-adoption-eu/
 │
 ├── data/
 │   ├── raw/
-│   │   └── eurostat/
 │   └── cleaned/
 │
-├── notebooks/
-│   └── ev_adoption_eu.ipynb
+├── ev_adoption_eu.ipynb
 │
 ├── visualizations/
 │
